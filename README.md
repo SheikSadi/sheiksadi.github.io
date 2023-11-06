@@ -4,12 +4,12 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Backend | Data Science | NLP</b>
-</p>
+<h1 align="center">
+  Backend | DevOps | NLP
+</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/sheik-sadi-rohmotullah/">
-    <img src="https://skillicons.dev/icons?i=py,mongodb,fastapi,gcp,docker,git,github,linux,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=py,mongodb,fastapi,gcp,docker,git,github,linux,tensorflow,go,redis,flask,aws,kubernetes,cpp,java,ai,pytorch&perline=9" />
   </a>
 </p>
 
@@ -45,8 +45,8 @@ The primary product/service at [CONCURED](https://concured.com/) is the Recommen
 - **Keyword Extraction and labelling with WikiData using YAKE algorithm and text embeddings (NLP)**
 
 ## TECHNICAL SKILLS
-- **Languages**: Python (Expert with 3+ years of experience), Java, Go, JavaScript
-- **Cloud Infrastructure**: GCP
+- **Languages**: Python (Expert with 3+ years of experience), Java, Go, C/C++
+- **Cloud Infrastructure**: GCP (Exper with 2 years of experience), AWS
 - **Databases**: NoSQL: MongoDB, ElasticSearch, Redis; SQL: BigQuery
 - **Frameworks**: FastAPI, Flask
 - **Container Orchestration**: Docker, Kubernetes
@@ -54,7 +54,7 @@ The primary product/service at [CONCURED](https://concured.com/) is the Recommen
 - **Parallelism**: AsyncIO
 - **Data Science**: Pandas, NumPy, SciPy, Scikit-Learn, NLTK
 - **OS**: Linux, Windows
-- **Machine Learning**: TensorFlow
+- **Machine Learning**: TensorFlow, PyTorch
 
 ## Contact
 Mail me at [biis.saadi@gmail.com](mailto:biis.saadi@gmail.com)
