@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://www.linkedin.com/in/sheik-sadi-rohmotullah/">
+    <img src="https://github.com/SheikSadi/SheikSadi/assets/34588815/459ed0bb-30eb-4982-b2fc-02e36e94705f" />
+  </a>
+</p>
+
+<p align="center">
   <b>Backend | Data Science | NLP</b>
 </p>
 <p align="center">
