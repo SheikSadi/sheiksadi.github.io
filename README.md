@@ -8,7 +8,7 @@
   <b>Backend | Data Science | NLP</b>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/sheik-sadi-rohmotullah/">
     <img src="https://skillicons.dev/icons?i=py,mongodb,fastapi,gcp,docker,git,github,linux,tensorflow" />
   </a>
 </p>
