@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Sheik Sadi Rohmotullah
-description: Electrical and Electronics Engineer with 2 years Back-end Python development experience. Proven ability to develop robust and scalable software. Expertise in MongoDB, ElasticSearch, FastAPI, GCP, and NLP. Experience in recommender systems, data pipelines, and machine learning.
+description: Software Engineer specialized in Back-end development with Python. 3 years of professional experience in building robust and scalable software. Expertise in FastAPI, MongoDB, ElasticSearch, GCP, LangChain and NLP. Experience in recommender systems, data pipelines, machine learning and generative AI.
 show_downloads: false
